@@ -5,10 +5,10 @@ sous forme de bibliothèque partagée (.so) préchargeable via LD_PRELOAD.
 
 ## Fonctionnalités
 
-- `malloc` — allocation mémoire alignée sur long double
-- `free` — libération et réutilisation immédiate des blocs
-- `calloc` — allocation initialisée à zéro avec vérification overflow
-- `realloc` — réallocation avec extension intelligente de l'espace
+- `malloc` : allocation mémoire alignée sur long double
+- `free` : libération et réutilisation immédiate des blocs
+- `calloc` :  allocation initialisée à zéro avec vérification overflow
+- `realloc` : réallocation avec extension intelligente de l'espace
 
 ## Contraintes techniques
 
